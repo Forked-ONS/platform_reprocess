@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 flask = "*"
-ons-platform-python-sdk = {git = "https://github.com/onsplatform/platform_sdk.git",editable = true}
+ons-platform-python-sdk = {git = "https://github.com/lucasthim/platform_sdk.git",editable = true}
 pytest = "*"
 
 [requires]
